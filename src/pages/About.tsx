@@ -16,12 +16,12 @@ import GitHubChart from "../components/Git";
 import ProjectCard from "../components/ProjectCard";
 
 const currentProjectIds = [
+  "im-daily-planner",
   "deep-research-agent",
   "nlp-rag-world-news",
   "local-rag-chatbot",
   "rag-chatbot",
   "cpu-scheduling-algorithms",
-  "digital-steganography",
 ];
 
 const CurrentProjectsSection = ({ projects }: { projects: ProjectType[] }) => (

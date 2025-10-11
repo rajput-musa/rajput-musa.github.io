@@ -3,7 +3,7 @@ export default function TLDR() {
     <div className="p-6 max-w-xl mx-auto">
       <h2 className="text-3xl font-bold mb-4">TL;DR</h2>
       <p>
-        Aspiring AI/ML Engineer with a passion for building smart, end-to-end solutions. I have an engineering mindset and enjoy turning advanced models into real-world impact. My current focus is on Retrieval-Augmented Generation (RAG), agents, LLMs, and computer vision.
+        AI/ML Engineer passionate about building intelligent systems that solve real-world problems. I specialize in developing end-to-end AI solutions—from RAG pipelines and LLM agents to computer vision and intelligent automation. Whether it's optimizing workflows, building planning assistants, or deploying production AI systems, I focus on creating practical tools that deliver measurable impact.
       </p>
     </div>
   );

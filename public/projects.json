@@ -1,5 +1,53 @@
 [
   {
+    "id": "im-daily-planner",
+    "title": "IM Daily Planner (AI Pilot)",
+    "description": "Generate AI-based daily plans for IM teams using skill matching, clustering, and weather data. Achieved 70%+ adoption across multiple regions.",
+    "details": {
+      "summary": "An AI-powered planning assistant designed for daily IM team scheduling. The system uses skill matching algorithms, clustering techniques, and weather intelligence to generate optimized daily work plans. Successfully piloted across North, Central, and South regions, achieving over 70% adoption rate with high accuracy compared to human-generated plans.",
+      "sections": [
+        {
+          "title": "Key Features",
+          "list": [
+            "Skill Matching: Automatically matches team members to tasks based on their expertise and availability.",
+            "Clustering Algorithm: Groups similar tasks and optimizes team assignments for efficiency.",
+            "Weather Intelligence: Integrates real-time weather data to adjust outdoor work schedules.",
+            "Local LLM: Uses Ollama with Qwen model for on-premise AI inference.",
+            "Interactive UI: Built with Streamlit for easy plan generation and visualization.",
+            "High Accuracy: Achieved comparable or better accuracy than human planners.",
+            "Wide Adoption: 70%+ adoption rate across multiple regional teams."
+          ],
+          "isOrdered": false
+        },
+        {
+          "title": "Technologies Used",
+          "list": [
+            "Ollama with Qwen LLM for local AI inference",
+            "Streamlit for the web interface",
+            "Python for backend logic and data processing",
+            "Clustering algorithms for task optimization",
+            "Weather API integration"
+          ],
+          "isOrdered": false
+        },
+        {
+          "title": "Achievement",
+          "list": [
+            "Secured 3rd place in Huawei's AI Application Contest",
+            "Piloted successfully across North, Central, and South regions",
+            "Achieved 70%+ adoption rate among IM teams",
+            "Generated plans with accuracy comparable to experienced human planners"
+          ],
+          "isOrdered": false
+        }
+      ]
+    },
+    "links": {
+      "github": ""
+    },
+    "tags": ["Python", "Ollama", "Qwen", "Streamlit", "AI", "LLM", "Clustering", "Planning"]
+  },
+  {
     "id": "deep-research-agent",
     "title": "DeepSearch-Agent",
     "description": "A Multi-step autonomous research agent. It takes a high-level user query, interactively refines the research scope, dynamically plans a report outline, gathers information from the web, and writes a comprehensive, cited report in Markdown",

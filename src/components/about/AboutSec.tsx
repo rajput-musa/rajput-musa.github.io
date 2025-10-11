@@ -5,23 +5,23 @@ import 'swiper/css';
 import 'swiper/css/effect-fade';
 import 'swiper/css/pagination';
 
-import hackxilaImg from "/assets/About/hackxila.jpg";
-import fypImg from "/assets/About/fyp.jpg";
+import huaweiMainImg from "/assets/About/huawei-ai-main.jpg";
+import huaweiAI1Img from "/assets/About/huawei-ai1.jpg";
 
 const images = [
   { 
-    src: hackxilaImg, 
-    alt: "Moosa Qaisar at HackXila competition",
+    src: huaweiMainImg, 
+    alt: "Moosa Qaisar at Huawei AI Application Contest",
     captions: [
-      { text: "Builder.", color: "text-orange-400" },
-      { text: "Competitor.", color: "text-blue-400" }
+      { text: "Award Winner.", color: "text-orange-400" },
+      { text: "AI Engineer.", color: "text-blue-400" }
     ]
   },
   { 
-    src: fypImg, 
-    alt: "Moosa Qaisar with FYP group",
+    src: huaweiAI1Img, 
+    alt: "Moosa Qaisar at Huawei Innovation Center",
     captions: [
-      { text: "Researcher.", color: "text-green-400" },
+      { text: "Builder.", color: "text-green-400" },
       { text: "Innovator.", color: "text-purple-400" }
     ]
   }
