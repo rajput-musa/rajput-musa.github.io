@@ -21,7 +21,7 @@ export default function EducationSection() {
             </div>
             <div className="mt-4 text-center">
               <span className="px-2 py-1 text-xs rounded-full bg-[color-mix(in_oklch,var(--color-primary)_15%,transparent)]">
-                3.36 GPA
+                3.41 GPA
               </span>
             </div>
           </div>
